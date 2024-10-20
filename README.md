@@ -26,8 +26,8 @@ One can search, navigate, and modify data using a parser. It’s versatile and s
 
 ### Program:
 
-DEVELOPED BY: Prema Latha S
-REG NO.:212222230112
+DEVELOPED BY: Pragaharshitha NC
+REG NO.:212222110033
 
 ```
 import requests
